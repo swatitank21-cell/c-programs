@@ -29,6 +29,3 @@ else
 printf("%d is not an Armstrong number\n", n);
 return 0;
 }
-Output:
-Enter a number: 153
-153 is an Armstrong number
